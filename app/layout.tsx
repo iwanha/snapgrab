@@ -29,7 +29,6 @@ export default function RootLayout({
     >
       <body className="min-h-full flex flex-col">
         <script>
-          {{" "}}
           (function(){var a=document.createElement("script");
           a.type="text/javascript";a.async=true;
           a.src="https://ads.alicdn.com/publisher/loader.js?publisherId=1766765304";
