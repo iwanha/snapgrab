@@ -1,0 +1,2 @@
+# snapgrab
+Affiliate blog
